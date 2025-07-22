@@ -48,7 +48,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## For Login credential
 You can create as new user or you can sign in with my dummy user
-## username : user@2gmail.com
+## username : user2@gmail.com
 ## password: 1234
 
 
